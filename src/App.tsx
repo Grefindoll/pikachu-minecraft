@@ -542,9 +542,9 @@ export default function MinecraftPikachuTS() {
           <p>
             <b>Controls:</b>
           </p>
-          <p>WASD / Arrows to Move</p>
-          <p>Space to Jump</p>
-          <p>ESC to Pause</p>
+          <p>動く：WASD / 矢印</p>
+          <p>スペース：ジャンプ</p>
+          <p>一時停止：ESC</p>
         </div>
       )}
     </div>
