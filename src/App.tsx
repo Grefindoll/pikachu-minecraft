@@ -520,7 +520,7 @@ export default function MinecraftPikachuTS() {
             クリックで再開します
           </h1>
           <p>W, A, S, D または 矢印 = 動く</p>
-          <p>SPACE = Jump</p>
+          <p>スペース = ジャンプ</p>
           <p>Mouse = Look</p>
         </div>
       )}
