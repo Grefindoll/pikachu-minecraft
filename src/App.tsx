@@ -521,7 +521,7 @@ export default function MinecraftPikachuTS() {
           </h1>
           <p>W, A, S, D または 矢印 = 動く</p>
           <p>スペース = ジャンプ</p>
-          <p>Mouse = Look</p>
+          <p>マウス = 視点を変える</p>
         </div>
       )}
 
