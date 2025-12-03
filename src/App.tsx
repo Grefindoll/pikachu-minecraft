@@ -540,7 +540,7 @@ export default function MinecraftPikachuTS() {
           }}
         >
           <p>
-            <b>Controls:</b>
+            <b>操作方法</b>
           </p>
           <p>動く：WASD / 矢印</p>
           <p>スペース：ジャンプ</p>
