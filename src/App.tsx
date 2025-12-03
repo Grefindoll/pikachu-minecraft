@@ -519,7 +519,7 @@ export default function MinecraftPikachuTS() {
           <h1 style={{ fontSize: "2rem", marginBottom: "1rem" }}>
             クリックで再開します
           </h1>
-          <p>W, A, S, D or Arrows = Move</p>
+          <p>W, A, S, D または 矢印 = 動く</p>
           <p>SPACE = Jump</p>
           <p>Mouse = Look</p>
         </div>
