@@ -332,7 +332,7 @@ export default function MinecraftPikachuTS() {
 
         if (dir.length() > 0) {
           dir.normalize();
-          const targetRot = Math.atan2(dir.x, dir.z) + Math.PI;
+          const targetRot = Math.atan2(dir.x, dir.z);
           let diff = targetRot - game.player.rotation.y;
           while (diff > Math.PI) diff -= Math.PI * 2;
           while (diff < -Math.PI) diff += Math.PI * 2;
